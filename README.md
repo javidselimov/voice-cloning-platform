@@ -12,3 +12,6 @@ daha sonra terminalda mene verilen emrleri yerine yetirirem  => npx prisma migra
   => npx prisma studio
 
   modeleri yazdiqdan sonra komandani tezden ishlet
+
+  sonnuncu defe 1 saatda qaldim
+  

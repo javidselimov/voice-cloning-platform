@@ -10,8 +10,8 @@ daha sonra prisma saytina kecib baxa bilersen=> npx prisma init --db
 
 daha sonra terminalda mene verilen emrleri yerine yetirirem  => npx prisma migrate dev --name init
   => npx prisma studio
-
+ 
   modeleri yazdiqdan sonra komandani tezden ishlet
-
+=>  npx prisma generate  prisma clienti duzeltmek ucun bu lazimdir  bu sadece tipler ucun lazimdir ve bu git ignordadir bunsuz da ishleyecek type safety ucun lazimdir
   sonnuncu defe 1 saatda qaldim
   

@@ -13,5 +13,5 @@ daha sonra terminalda mene verilen emrleri yerine yetirirem  => npx prisma migra
  
   modeleri yazdiqdan sonra komandani tezden ishlet
 =>  npx prisma generate  prisma clienti duzeltmek ucun bu lazimdir  bu sadece tipler ucun lazimdir ve bu git ignordadir bunsuz da ishleyecek type safety ucun lazimdir
-  sonnuncu defe 1 saatda qaldim
+  sonnuncu defe 1:42 saatda qaldim
   
